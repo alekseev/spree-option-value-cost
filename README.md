@@ -1,7 +1,7 @@
 SpreeOptionValueCost
 ====================
 
-Introduction goes here.
+Adds cost to option values.
 
 
 Installation
@@ -17,4 +17,4 @@ Then run this commands:
     rake db:migrate
 
 
-Copyright (c) 2011 [name of extension creator], released under the New BSD License
+Copyright (c) 2011 Denis Alekseev, released under the New BSD License
