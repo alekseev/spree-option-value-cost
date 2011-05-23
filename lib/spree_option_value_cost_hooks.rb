@@ -1,3 +1,3 @@
 class SpreeOptionValueCostHooks < Spree::ThemeSupport::HookListener
-  # custom hooks go here
+  replace :admin_product_form_right, 'shared/product_form_without_master_price'
 end
